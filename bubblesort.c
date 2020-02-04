@@ -1,4 +1,4 @@
- void bubblesort(int a[],int n)
+ void bubbleSort(int a[],int n)
 {
     int i,j,temp;
      for(i=0;i<n-1;i++)
